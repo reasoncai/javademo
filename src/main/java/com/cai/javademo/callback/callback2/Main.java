@@ -1,6 +1,7 @@
 package com.cai.javademo.callback.callback2;
 
 /**
+ * 同步回调
  * Created by reason on 17/11/5.
  */
 public class Main {

@@ -1,6 +1,7 @@
 package com.cai.javademo.callback.callback3;
 
 /**
+ * 异步回调（起线程处理）
  * Created by reason on 17/11/5.
  */
 public class CallbackApp {
