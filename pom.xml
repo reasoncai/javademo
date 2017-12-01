@@ -10,6 +10,8 @@
     <properties>
         <jdk.version>1.8</jdk.version>
         <cglib.version>2.2.2</cglib.version>
+        <fastjson.version>1.2.30</fastjson.version>
+
     </properties>
     <dependencies>
         <dependency>
@@ -17,5 +19,11 @@
             <artifactId>cglib</artifactId>
             <version>${cglib.version}</version>
         </dependency>
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>fastjson</artifactId>
+            <version>${fastjson.version}</version>
+        </dependency>
+
     </dependencies>
 </project>
